@@ -1,7 +1,7 @@
 ## Hi, I'm Yashas Nataraj
 
 - 🎓 I'm a Masters student in **Distributed Systems Engineering** at **TU Dresden**. 
-- 💻 4+ years of SDE experience at **WS Audiology** and **Danske IT**. 
+- 💻 3+ years of SDE experience at **WS Audiology** and **Danske IT**. 
 - 🔧 Currently working with **Kubernetes Operators** and **Kubebuilder** for my master thesis.  
 - 🧠 Always curious – you’ll find some of my playgrounds and experiments below. 
 - 🤝 Open to discussions or collaborations on **Distributed Systems**, **LLMs**, **Golang**, **Kubernetes**.
